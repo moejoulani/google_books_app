@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="empty_view_text">Sorry No Data Available . </string>
+    <string name="no_internet">No Internet . </string>
+    <!--  _____________________________________________________________  -->
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">6</string>
+</resources>
